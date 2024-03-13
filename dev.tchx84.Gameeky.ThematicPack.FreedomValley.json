@@ -24,8 +24,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/tchx84/FreedomValley.git",
-                    "tag": "v0.2.1",
-                    "commit": "c7235c3afe090ebc1c8fa1df284722d99ab681f8"
+                    "tag": "v0.2.2",
+                    "commit": "b50dccde01eb8137ed6833aed98ecd2584ba04a9"
                 }
             ],
             "post-install": [
